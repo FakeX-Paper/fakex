@@ -1,0 +1,40 @@
+Extension	HTTP code (2023-08-17)	Name	Verdict	Comment	Comment extra
+ccblakkjhhlmajkeoonnejblphplofng	404	( C30 ) كود خصم ري�ا �اشون	safe	Coupon extension, not much code, nothing 	
+gnfejchecdjmbpgedonagigiaoigmfjg	404	( CY90 ) كود خصم جاب	safe	Coupon extension, not much code, nothing 	
+lbdingmkblnbjgbfacikjooijbmgidmm	404	( UBAR877 ) كود خصم يوباي	safe	Coupon extension, not much code, nothing 	
+mnednpfpdpbmghnclknnkhkoamhhmdan	404	( C13D ) كود خصم بوتري بارن	safe	Coupon extension, not much code, nothing 	
+edcmlmcoljlnhheomagkbdnfmebdlkkf	404	( K55 ) كود خصم ديلي ميلز	safe	Coupon extension, not much code, nothing 	
+mcbmadglhkkepbjdepkcebgikmhkohaa	404	( Si50 ) كود خصم ري�ي	safe	Coupon extension, not much code, nothing 	
+ehfolfmfgohofgfimfbhecnibnigfhpg	200	( KK20 ) كود خصم الدو	safe	Coupon extension, not much code, nothing 	
+obcihpephklmjcabagacimkfjkpgpmdj	404	( OFF581  ) كود خصم مكياجي	safe	Coupon extension, not much code, nothing 	
+pgljhpndjdhnenlobbcgcmokepdlocfb	404	( MS16 ) كود خصم كار�ور	safe	Coupon extension, not much code, nothing 	
+fpbhgncmndopjjmojoedoejmjombgaah	404	( ACR ) كود خصم 6 ستريت	safe	Coupon extension, not much code, nothing 	
+eglfaoiahmdgbhecpbehieihpnhpkjah	404	( TOPO ) كود خصم باث اند بودي	safe	Coupon extension, not much code, nothing 	
+aihenpjigmbdkocojpgodnjmglgkacbc	200	( DZ25 ) كود خصم الشمس والرمال	safe	Coupon extension, not much code, nothing 	
+ckfegcnoakajpbbkcaifejfkaicibppd	404	( DZ15 ) كود خصم الشمس والرمال	safe	Coupon extension, not much code, nothing 	
+bonifgcmfeafmgdbfpaigohkaogcmbgd	404	( A99 ) كود خصم �وغا كلوسيت	safe	Coupon extension, not much code, nothing 	
+lbjhedpabplfnajafooppdjhnkemlaoc	404	كود خصم سيتروس تي �ي	safe	Coupon extension, not much code, nothing 	
+cnenekpkohkjipkbepjfldpijkflnacd	404	كود خصم كار�ور السعودية	safe	Coupon extension, not much code, nothing 	
+ehlijelggjbcpdhcieelopdbcmpfdppc	404	( TN65 ) كود خصم اتش اند ام	safe	Coupon extension, not much code, nothing 	
+ibaaphmjenldehdnccfblnofpchfklbg	404	( T077 ) كود خصم ايزل	safe	Coupon extension, not much code, nothing 	
+ododcgmebficaljmnjnaeadjkbmipijf	200	( EL11 ) كود خصم الميس	safe	Coupon extension, not much code, nothing 	
+djgpheebebjmlajgcbolljkhngimglln	404	( DZ1 ) كود خصم بلومينغديلز	safe	Coupon extension, not much code, nothing 	
+jhmjldgmcbjmahcidkdjdkcnepkioned	404	( DZ11 ) كود خصم ماماز اند باباز	safe	Coupon extension, not much code, nothing 	
+ndjdbmceagcbaaohjchnlkjbpkjefglm	404	FaceApp	malicious	Mobile-view.pl redirect in editor.html, similar to unblock games	
+idgmhgkpbfghmmcddccfmcnjcmlnpaob	404	Drift Hunters Unblocked	malicious	http://mobile-view.pl/drift-hunters-game	REMOVED (march 24) Malicious
+afjhchnhjimjlnoofobefbeghopkfbnp	404	iTunes Web	malicious	http://mobile-view.pl/itunesconnect	
+mcfocafebdekkjgcbdgkldadiaiigepg	404	Geometry Dash	wasMalicious	gameunblocked.pl	in version 2.9
+fjcggondhjdmdckocfojppghcahgefgi	404	Slope 3 Unblocked	malicious	http://mobile-view.pl/slope3	REMOVED (march 24) Malicious
+fokemahcpbkcmdbikmhfjbjaklpdnnej	404	Dinosaur Game Unblocked	malicious	http://gameunblocked.pl/dinogame-newtab	REMOVED (march 24) Malicious
+kmpgdcomgnkbcdcoobaidnkiajgcacdg	404	Tic Tac Toe Unblocked	malicious	http://gameunblocked.pl/tictactoegame-newtab	REMOVED (march 24) Malicious
+phepcklpbfinbfflpjnmehcnnoofbghp	404	Magic Tiles 3 Unblocked	malicious	http://mobile-view.pl/magic-tiles-3	REMOVED (march 24) Malicious
+paladendoonobbcpinplmmgpnmdoampl	404	Station Meltdown Unblocked	malicious	http://gameunblocked.pl/StationMeltdown-game-ext	REMOVED (march 24) Malicious
+dnboohijciapophbfahdidehhcpbbdmo	404	Doodle Jump Unblocked	malicious	http://gameunblocked.pl/doodlejump-game-newtab	REMOVED (march 24) Malicious
+iehblepfbknonbbncbidbaggofaomjop	404	Ninja Cut Unblocked	malicious	http://mobile-view.pl/ninja-cut	REMOVED (march 24) Malicious
+mklpbppcpaemdofegklnblhglcpmfiep	404	Townscaper Unblocked	safe	. Very similar code but no evil link.	REMOVED (march 24) BENIGN?
+kofhlphgbkighbkodlghaacciinokboi	404	Learn to fly Unblocked	malicious	http://gameunblocked.pl/learntofly-redirect	REMOVED (march 24) Malicious
+monljmeefnongjlfefogaoldojpchhpg	404	Bloons Tower Defense Unblocked	malicious	http://gameunblocked.pl/bloonstdgame-newtab	Malicious
+bcipjbiindjhhkcmkhdknllpkcaecfjh	404	Flappy Bird Unblocked	malicious	http://mobile-view.pl/flappybird-game	REMOVED (march 24) Malicious
+ebllbagoalbkholngmhdlbcgfjhapdpk	404	X-Trial Racing Unblocked	malicious	http://mobile-view.pl/xctrial-game-unblocked	REMOVED (march 24) Malicious
+iifgmghndndcllgecjbngcnafbbamgkn	404	Cut The Rope Unblocked	malicious	http://mobile-view.pl/cut-the-rope-game	REMOVED (march 24) Malicious
+naingjgndhkllfbbkjngfkblemaiacdf	404	Vex 7 Unblocked Game	malicious	https://gameunblocked.pl/vex7 also js/script.js and js/cache.js are strange	
