@@ -1,10 +1,10 @@
 # FakeX
 
-TODO
+This repository contains the implementation of the methods proposed in [FakeX: A Framework for Detecting Fake Reviews of Browser Extensions](https://www.cse.chalmers.se/research/group/security/fakex/), as well as some sample data to illustrate their results.
 
 # Requirements
 
-TODO
+These scripts are written in Python, and rely on various libraries which can be obtained from pip.
 
 # To run
 
@@ -36,7 +36,7 @@ To start the analysis, run:
 while ```reviews_multiLookup``` is an optimization used for CoR.
 
 
-### For ATW, pick:
+### For Aggregated Time Window (ATW), pick:
 
 ```reviews_lookup```
 
@@ -46,11 +46,11 @@ while ```reviews_multiLookup``` is an optimization used for CoR.
 
 Result in: ```out/reviews_lookup/atw_60```
 
-### The HVC method is packaged separately in hvc folder
+### The Horizontal Vertical Clustering (HVC) method is packaged separately in the hvc folder
 
 Follow README in hvc folder
 
-### For CoR, pick:
+### For Co-Reviewer analysis (CoR), pick:
 
 ```reviews_multiLookup```
 
@@ -58,7 +58,7 @@ Follow README in hvc folder
 
 Result in: ```out/reviews_multiLookup/coAuthor```
 
-## For spam:
+## For Spam Detection:
 
 ```reviews_lookup```
 
@@ -69,7 +69,7 @@ Result in: ```out/reviews_multiLookup/coAuthor```
 Result in: ```out/reviews_lookup/spam_detection_3```
 
 
-## For Written Ratio
+## For Written Ratio analysis:
 
 ```reviews_lookup```
 
